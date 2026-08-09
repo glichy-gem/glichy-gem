@@ -157,8 +157,8 @@ Observability
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=glichy-gem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glichy-gem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=glichy-gem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=glichy-gem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=8B949E" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=glichy-gem&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" />
 
@@ -167,10 +167,6 @@ Observability
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glichy-gem&theme=github_dark" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glichy-gem&theme=github_dark" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glichy-gem&theme=github_dark&utcOffset=5.5" height="180" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=glichy-gem&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 <br/><br/>
 
